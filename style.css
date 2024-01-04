@@ -1,0 +1,46 @@
+*{
+    color: white;
+}
+*{
+    background-color: black;
+}
+#AW{
+    height: 300px;
+            width: 800px;
+    border: 3px solid #E95793;
+}
+#WW{
+    height: 300px;
+            width: 800px;
+    border: 3px solid #E95793;
+}
+#WS{
+    height: 300px;
+            width: 800px;
+    border: 3px solid #E95793;
+}
+button {
+    background-color: #bab0cc54;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+button:hover {
+    /* Change background color and cursor on hover */
+    background-color: #8d899434; /* Green background */
+    color: white; /* White text */
+    cursor: pointer; /* Crosshair cursor on hover */
+}
+@media(max-width: 680px){
+    p{
+       width: 215%;
+    }
+    img{
+    }
+}
